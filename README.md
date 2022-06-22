@@ -1,7 +1,7 @@
 # [Weather Mate](http://weather-mate.vercel.app/)
 
 Implemented Open Weather API to get current weather and 7 days forecast.
-User needs to enter city name to get weather data.
+User needs to enter city name to get weather data. Link- https://weather-mate-2-0.vercel.app/
 
 https://user-images.githubusercontent.com/85545016/150809313-928779a6-cfcc-46d2-a644-b15746350122.mp4
 
